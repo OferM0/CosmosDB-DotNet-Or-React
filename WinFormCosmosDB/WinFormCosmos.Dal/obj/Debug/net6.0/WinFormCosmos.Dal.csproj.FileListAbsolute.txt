@@ -1,0 +1,17 @@
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\WinFormCosmos.Dal.deps.json
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\WinFormCosmos.Dal.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\WinFormCosmos.Dal.pdb
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.AssemblyInfoInputs.cache
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.AssemblyInfo.cs
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\refint\WinFormCosmos.Dal.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\WinFormCosmos.Dal.pdb
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\obj\Debug\net6.0\ref\WinFormCosmos.Dal.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\msvcp140.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Dal\bin\Debug\net6.0\vcruntime140_1.dll

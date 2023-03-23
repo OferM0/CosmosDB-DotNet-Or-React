@@ -1,0 +1,12 @@
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\bin\Debug\net6.0\WinFormCosmos.Model.deps.json
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\bin\Debug\net6.0\WinFormCosmos.Model.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\bin\Debug\net6.0\WinFormCosmos.Model.pdb
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.csproj.AssemblyReference.cache
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.AssemblyInfoInputs.cache
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.AssemblyInfo.cs
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.csproj.CoreCompileInputs.cache
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\refint\WinFormCosmos.Model.dll
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\WinFormCosmos.Model.pdb
+C:\Users\oferm\source\repos\C learning\תקופת היזמות\WinFormAndCosmosDB\Solution1\WinFormCosmos.Model\obj\Debug\net6.0\ref\WinFormCosmos.Model.dll
